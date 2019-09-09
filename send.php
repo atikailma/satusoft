@@ -4,7 +4,7 @@ $email=$_POST['email'];
 $subject=$_POST['subject'];
 $message=$_POST['message'];
 
-$to="atikailma02@gmail.com";
+$to="";
 
 $message="Dear, <br /> <br />".$message;
 
